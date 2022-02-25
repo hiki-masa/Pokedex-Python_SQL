@@ -1,0 +1,5 @@
+*.sln
+*.pyproj
+
+.vs/
+Pokedex/__pycache__/
